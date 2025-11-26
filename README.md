@@ -26,11 +26,11 @@ Smooth color transitions on navigation links (ul li a:hover), the main content b
 
 Since this is a static website, getting it running is extremely simple!
 
-***Prerequisites**
+***Prerequisites***
 
 You need only a modern web browser (Chrome, Firefox, Edge, Safari, etc.).
 
-**Project Files***
+***Project Files***
 website.html (or your main HTML file)
 
 website.css (The primary stylesheet for all components)
