@@ -24,6 +24,5 @@ You need only a modern web browser (Chrome, Firefox, Edge, Safari, etc.).
 website.html (or your main HTML file)
 
 website.css (The primary stylesheet for all components)
-
-** Author**
+ Author
  Harshika N
